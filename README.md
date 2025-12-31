@@ -1,4 +1,4 @@
-# C plus plus Programming Practice – Programming Advices 📘
+# C plus plus Programming Practice 📘
 
 ## Overview
 This repository contains practical programming exercises and solutions written in C pluq plus, covering multiple difficulty levels from basic to advanced.  
@@ -16,7 +16,6 @@ The purpose is to build a strong foundation in C plus plus programming and enhan
 ---
 
 # 🙏 Acknowledgements
-- **Programming Advices** and **Professor Abouhodhoud** for high-quality tutorials and C programming content  
 - **Teacher 8** for guidance and support during the learning process  
 
 ---
